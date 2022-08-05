@@ -70,3 +70,13 @@ img {
   float: left;
   padding: 10px;
 }
+
+.hobbies {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.band-name {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bolder;
+  font-size: x-large;
+}
