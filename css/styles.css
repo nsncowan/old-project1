@@ -12,14 +12,31 @@ font-family:Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
 }
 
+.col-3 {
+margin: 0px;
+}
+
+.col-9 {
+margin: 0px;
+}
+
 img {
   height: 300px;
 }
 
 .about {
   background-color: #CBF3F0;
-  padding: 50px;
-  margin-left: 20px;
+  padding: 20px;
+}
+
+.about h2 {
+  text-align: center;
+}
+
+.about img {
+  float: right;
+  width: 40%;
+  height: auto;
 }
 
 .background {
@@ -27,9 +44,17 @@ img {
   padding: 20px;
 }
 
+.background h2 {
+  text-align: center;
+}
+
 .personal {
   background-color: #FF9F1C;
   padding: 20px;
+}
+
+.personal h2 {
+  text-align: center;
 }
 
 .projects {
@@ -37,16 +62,11 @@ img {
   padding: 20px;
 }
 
+.projects h2 {
+  text-align: center;
+}
+
 .sidebar {
   float: left;
   padding: 10px;
-  position: relative;
-}
-
-.col-md-10 {
-  margin: 0px
-}
-
-.col-md-2 {
-  margin: 0px;
 }
