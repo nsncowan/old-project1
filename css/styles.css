@@ -1,0 +1,11 @@
+body {
+  padding: 30px;
+}
+
+.jumbotron {
+  background-color: #ffbf69;
+}
+
+.ncpic.jumbotron {
+  height: 20px;
+}
