@@ -4,8 +4,34 @@ body {
 
 .jumbotron {
   background-color: #ffbf69;
+  padding: 20px;
 }
 
-.ncpic.jumbotron {
-  height: 20px;
+img {
+  height: 300px;
+}
+
+.about {
+  background-color: #CBF3F0;
+  padding: 20px;
+}
+
+.background {
+  background-color: #ffbf69;
+  padding: 20px;
+}
+
+.personal {
+  background-color: #FF9F1C;
+  padding: 20px;
+}
+
+.projects {
+  background-color: #CBF3F0;
+  padding: 20px;
+}
+
+.sidebar {
+  float: left;
+  background-color: #2EC4B6;
 }
