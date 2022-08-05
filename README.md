@@ -17,6 +17,9 @@ _This is a portfolio landing page created in order to demonstrate my understandi
 
 * _N/A_
 
+## GitHub Pages
+
+* [Portfolio Landing Page] ()
 
 ## Known Bugs
 
