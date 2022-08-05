@@ -10,6 +10,7 @@ font-family:Verdana, Geneva, Tahoma, sans-serif;
   border-width: 5px;
   border-style: solid;
   text-align: center;
+
 }
 
 .col-3 {
@@ -22,11 +23,19 @@ margin: 0px;
 
 img {
   height: 300px;
+  margin: 10px;
+  border: black;
+  border-width: 3px;
+  border-style: solid;
+
 }
 
 .about {
   background-color: #CBF3F0;
   padding: 20px;
+  border: black;
+  border-width: 3px;
+  border-style: solid;
 }
 
 .about h2 {
@@ -42,6 +51,9 @@ img {
 .background {
   background-color: #ffbf69;
   padding: 20px;
+  border: black;
+  border-width: 3px;
+  border-style: solid;
 }
 
 .background h2 {
@@ -51,6 +63,9 @@ img {
 .personal {
   background-color: #FF9F1C;
   padding: 20px;
+  border: black;
+  border-width: 3px;
+  border-style: solid;
 }
 
 .personal h2 {
@@ -60,6 +75,9 @@ img {
 .projects {
   background-color: #CBF3F0;
   padding: 20px;
+  border: black;
+  border-width: 3px;
+  border-style: solid;
 }
 
 .projects h2 {
@@ -69,6 +87,8 @@ img {
 .sidebar {
   float: left;
   padding: 10px;
+  background-color: #CBF3F0;
+  text-align: center;
 }
 
 .hobbies {
@@ -80,3 +100,4 @@ img {
   font-weight: bolder;
   font-size: x-large;
 }
+
