@@ -98,6 +98,9 @@ img {
   padding: 10px;
   background-color: #FF9F1C;
   text-align: center;
+  border: black;
+  border-width: 2px;
+  border-style: solid;
 }
 
 .hobbies {

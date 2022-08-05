@@ -19,7 +19,7 @@ _This is a portfolio landing page created in order to demonstrate my understandi
 
 ## GitHub Pages
 
-* [Portfolio Landing Page] ()
+* [Portfolio Landing Page] (https://nsncowan.github.io/portfolio-landing-page/)
 
 ## Known Bugs
 
