@@ -34,4 +34,11 @@ img {
 .sidebar {
   float: left;
   background-color: #2EC4B6;
+  padding: 10px;
+  margin: 10px;
+}
+
+.col-9 {
+  float: right;
+  margin: 40px
 }
