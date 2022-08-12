@@ -15,11 +15,14 @@ _This is a portfolio landing page created in order to demonstrate my understandi
 
 ## Setup/Installation Requirements
 
-* _N/A_
+* Clone the repository to your desktop.
+* Navigate to the project's top directory in your terminal.
+* Open the directory in your text editor to view the code.
+* Open index.html in your browser to view the landing page.
 
 ## GitHub Pages
 
-* [Portfolio Landing Page] (https://nsncowan.github.io/portfolio-landing-page/)
+* [Portfolio Landing Page](https://nsncowan.github.io/portfolio-landing-page/)
 
 ## Known Bugs
 
